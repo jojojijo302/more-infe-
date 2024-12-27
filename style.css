@@ -1,0 +1,174 @@
+@import url("https://fonts.googleapis.com/css2?family=Audiowide&family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  color: inherit;
+  list-style: none;
+  text-decoration: none;
+  font-family: "Mulish", serif;
+}
+
+.contaier {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.right {
+  display: flex;
+  gap: 40px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 16px;
+}
+
+.right p {
+  color: gray;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22.59px;
+}
+
+.right p:hover {
+  color: black;
+  font-weight: 700;
+}
+
+.healthcare {
+  display: flex;
+  align-items: center;
+  gap: 131px;
+  margin-top: 91px;
+  justify-content: space-between;
+}
+
+.virtual {
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 56px;
+  width: 421px;
+}
+
+.provide {
+  color: #7d7987;
+  line-height: 32px;
+  font-weight: 300;
+  font-size: 19px;
+  width: 400px;
+  margin-top: 26px;
+  margin-bottom: 35px;
+}
+
+.left-parent button {
+  color: #ffffff;
+  border-radius: 55px;
+  border: none;
+  background-color: #458ff6;
+  padding: 14px 37px;
+}
+
+.text-father h5 {
+  font-size: 35px;
+  font-weight: 700;
+  line-height: 56px;
+  text-align: center;
+  margin-top: 91px;
+  margin-bottom: 61.82px;
+}
+
+.text-father p {
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 30px;
+  text-align: center;
+  width: 952px;
+}
+
+.text-father {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-mother {
+  border: 2px solid #5a98f2;
+  width: 380px;
+  border-radius: 20px;
+  padding: 71px 56px 31px 39px;
+}
+
+.text-mother p {
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 28px;
+  margin-left: 41.09px;
+}
+.text-mother h4 {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 56px;
+  margin-top: 40.07px;
+  margin-bottom: 1.06px;
+  margin-left: 41.09px;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.text-mother:hover {
+  background-color: #5a98f2;
+  color: #ffffff;
+}
+
+.text-mother:hover .text-mother p {
+  color: aliceblue;
+}
+
+.cards button {
+  padding: 17px 51px 16px;
+  width: 200px;
+  height: 56.74px;
+
+  gap: 0px;
+  border-radius: 55px;
+  border: 1.4px;
+  opacity: 0px;
+}
+
+h3 {
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 56px;
+  text-align: center;
+  margin-top: 76px;
+}
+
+
+
+
+.boy {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 117px;
+  margin-top: 75px;
+}
+
+.men h4{
+  margin-bottom: 62px;
+  width: 434px;
+font-size: 36px;
+font-weight: 700;
+line-height: 56px;
+}
+
