@@ -172,3 +172,45 @@ font-weight: 700;
 line-height: 56px;
 }
 
+.check{
+width: 380px;
+height: 504px;
+margin-top: 109px;
+}
+
+.check2{
+font-size: 21px;
+font-weight: 700;
+line-height: 32px;
+text-align: left;
+margin-bottom: 10px;
+margin-top: 30px;
+}
+
+.checkota{
+  display: flex;
+  gap: 20px;
+}
+
+.check4{
+font-size: 16px;
+font-weight: 300;
+line-height: 28px;
+text-align: left;
+color: #7D7987;
+width: 266px;
+}
+
+.contaier{
+  margin-left: 130px;
+  margin-right: 130px;
+}
+
+.strike{
+  width: 14.14px !important;
+height: 9px !important;
+
+
+}
+
+
